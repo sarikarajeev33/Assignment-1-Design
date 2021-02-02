@@ -87,7 +87,7 @@ What to hand in
 Be sure to add, commit, and push your Asgn1Design.txt file before the due date for this asignment.
 Also include a no-more-than-one page summary of this article about cpu caching in a file called summary.txt in this repository.
 
-/******************************* 2nd part of the Assignment-1 (Due 2/12/2020)******************************************************/
+/******************************* 2nd part of the Assignment-1 (Due 2/12/2021)******************************************************/
 Implementation requirements
 
 
