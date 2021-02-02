@@ -1,6 +1,6 @@
 # Assignment 1
-Design: Due Thursday 1/23/20
-Final: Due Thursday 2/06/20
+Design: Due Thursday 2/05/21
+Final: Due Thursday 2/12/21
 
 ## Goal
 The goal of this assignment is to 
@@ -109,7 +109,7 @@ Mr. Krabs threw up his claws and has since decided to task you (he pays well)
 with understanding how all three work.
 
 ## Design Requirements
-Due: Thursday 1/23/20
+Due: 2/05/21
 
 1. Add *Buns* to the list of supplies Mr. Crabs needs daily, and also add the
 day *Wednesday*.  
@@ -140,7 +140,7 @@ algorithm is better and why you think so.
 2. Also include a no-more-than-one page summary of [this article about cpu caching](https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips "Caching article") in a file called **summary.txt** in this repository.
 
 ## Implementation requirements
-Due: Thursday 2/06/20
+Due: Thursday 2/12/21
 
 1. Edit mm.c to include with the following *header comment*
 ```
