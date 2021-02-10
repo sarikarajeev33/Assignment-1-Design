@@ -1,6 +1,6 @@
 # Assignment 1
-Design: Due Thursday 2/05/21
-Final: Due Thursday 2/12/21
+Design: Due Friday 2/05/21
+Final: Due Friday 2/12/21
 
 ## Goal
 The goal of this assignment is to 
